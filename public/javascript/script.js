@@ -1,0 +1,1 @@
+console.log("STATIC FILE running on the client ");
